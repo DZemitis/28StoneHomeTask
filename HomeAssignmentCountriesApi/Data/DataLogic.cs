@@ -44,7 +44,7 @@ public static class DataLogic
         });
     }
     
-    public static IEnumerable GetCountryWithSelectedPropertiess(Country country)
+    public static IEnumerable GetCountryWithSelectedProperties(Country country)
     {
         var expectedParamaters = new Country()
         {
