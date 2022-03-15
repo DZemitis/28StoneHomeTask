@@ -21,5 +21,5 @@ After this step, your browser should open up address https://localhost:7134/swag
 In API you can view countries sorted by density, population or look up any country you like by name.
 <img src="https://i.ibb.co/b736Fjd/swagger.png"/>
 
-In this simple WEB API are implemented xUint tests, which You can run as the image below shows.
+In this simple WEB API are implemented xUnit tests, which You can run as the image below shows.
 <img src="https://i.ibb.co/MVNnxch/tests.png"/>
